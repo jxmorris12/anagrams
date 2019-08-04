@@ -1,0 +1,1 @@
+outfile = 'anagrams.bin'
