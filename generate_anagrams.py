@@ -1,12 +1,11 @@
 import config
-import nltk
 import pickle
 
-english_words = nltk.corpus.words.words()
+words = config.words
 
 anagram_map = {}
 
-for word in english_words:
+for word in words:
     sorted_chars = ''.join(sorted(word))
     if sorted_chars not in anagram_map:
         anagram_map[sorted_chars] = []
