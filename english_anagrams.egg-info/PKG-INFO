@@ -1,8 +1,8 @@
 Metadata-Version: 1.1
 Name: english-anagrams
-Version: 0.0.1
+Version: 0.0.3
 Summary: A small package for finding anagrams of an english word
-Home-page: https://github.com/jxmorris12/english-anagrams
+Home-page: https://github.com/jxmorris12/english_anagrams
 Author: jxmorris12
 Author-email: jxmorris12@gmail.com
 License: UNKNOWN
