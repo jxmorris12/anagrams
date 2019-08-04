@@ -1,4 +1,4 @@
-## english-anagrams
+## anagrams
 
 ### Usage
 This package provides an easy way to find anagrams for a given English word in Python 3.
