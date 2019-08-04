@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="english-anagrams",
+    name="english_anagrams",
     version="0.0.1",
     author="jxmorris12",
     author_email="jxmorris12@gmail.com",
