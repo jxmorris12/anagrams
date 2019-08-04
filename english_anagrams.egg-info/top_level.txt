@@ -1,1 +1,1 @@
-english-anagrams
+english_anagrams

@@ -9,7 +9,7 @@ setuptools.setup(
     author="jxmorris12",
     author_email="jxmorris12@gmail.com",
     description="A small package for finding anagrams of an english word",
-    url="https://github.com/jxmorris12/english-anagrams",
+    url="https://github.com/jxmorris12/english_anagrams",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
