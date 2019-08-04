@@ -1,0 +1,10 @@
+README.md
+setup.py
+english-anagrams/__init__.py
+english-anagrams/config.py
+english-anagrams/english_anagrams.py
+english-anagrams/generate_anagrams.py
+english_anagrams.egg-info/PKG-INFO
+english_anagrams.egg-info/SOURCES.txt
+english_anagrams.egg-info/dependency_links.txt
+english_anagrams.egg-info/top_level.txt
