@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="anagrams",
-    version="0.0.3",
+    version="0.0.5",
     author="jxmorris12",
     author_email="jxmorris12@gmail.com",
     description="A small package for finding anagrams of an english word",
