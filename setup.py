@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="english_anagrams",
-    version="0.0.3",
+    name="anagrams",
+    version="0.0.2",
     author="jxmorris12",
     author_email="jxmorris12@gmail.com",
     description="A small package for finding anagrams of an english word",

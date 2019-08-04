@@ -1,7 +1,10 @@
-import config
+import .config as config
 import pickle
+import os 
 
-with open(config.outfile, 'rb') as outfile:
+dir_path = os.path.dirname(os.path.realpath(__file__))
+outfile_path = os.path.join(dir_path, config.outfile)
+with open(outfile_path, 'rb') as outfile:
     anagram_map = pickle.load(outfile)
 
 def anagrams(word):

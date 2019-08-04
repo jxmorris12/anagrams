@@ -1,0 +1,10 @@
+README.md
+setup.py
+anagrams/__init__.py
+anagrams/anagrams.py
+anagrams/config.py
+anagrams/generate_anagrams.py
+anagrams.egg-info/PKG-INFO
+anagrams.egg-info/SOURCES.txt
+anagrams.egg-info/dependency_links.txt
+anagrams.egg-info/top_level.txt
