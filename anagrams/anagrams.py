@@ -1,4 +1,4 @@
-import .config as config
+import anagrams.config as config
 import pickle
 import os 
 
@@ -7,7 +7,7 @@ outfile_path = os.path.join(dir_path, config.outfile)
 with open(outfile_path, 'rb') as outfile:
     anagram_map = pickle.load(outfile)
 
-def anagrams(word):
+def find_anagrams(word):
     if not isinstance(word, str):
         raise ValueError('can only find anagrams for strings')
     sorted_word = ''.join(sorted(word))

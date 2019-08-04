@@ -1,3 +1,3 @@
 name = "english-anagrams"
 
-from anagrams import anagrams
+from .anagrams import find_anagrams

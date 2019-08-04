@@ -4,8 +4,8 @@
 This package provides an easy way to find anagrams for a given English word in Python 3.
 
 ```
->>> from english_anagrams import anagrams
->>> anagrams('stale')
+>>> from anagrams import find_anagrams
+>>> find_anagrams('stale')
 ['least', 'setal', 'slate', 'stale', 'steal', 'stela', 'tales']
 ```
 
